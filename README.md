@@ -59,7 +59,7 @@ TinDog is a <b>dog dating app</b> that helps dogs and their owners connect with 
 
 ### 1️⃣ Clone the Repository
 ``` bash
-git clone https://github.com/yourusername/tindog.git
+git clone https://github.com/Khanhbroo/TinDog.git
 ```
 ### 2️⃣. Navigate to the project folder:
 ``` bash
